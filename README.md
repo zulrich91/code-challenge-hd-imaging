@@ -1,2 +1,3 @@
-# code-challenge-hd-imaging
-This an api that reads and image, breaks it into its RGB components, and reconstruct the image from these RGB components. 
+# How to use the api
+* The api is hosted on heroku at the address https://hd-imaging.herokuapp.com/
+* Acess the api and hit the endpoint `upload` i.e https://hd-imaging.herokuapp.com/upload to upload an image of your choice. 
